@@ -1,3 +1,3 @@
 # new cording study
 
-css got so much better
+html & css are so much fun
