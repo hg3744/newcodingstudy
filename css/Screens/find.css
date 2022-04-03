@@ -93,7 +93,7 @@
 .open-post__members .divider {
     width: 2px;
     height: 15px;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.2);
     margin: 0 5px;
 }
 
